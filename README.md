@@ -16,3 +16,7 @@ Subindo todos os meus projetos com:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimundo1992)](https://github.com/anuraghazra/github-readme-stats)
 
+Meu whatsaap:
+-  <a href="https://web.whatsapp.com/"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="zap-logo" /><a/>
+Em breve teremos nosso Linkedin:
+- <img src="" alt="linkedin-logo" />
